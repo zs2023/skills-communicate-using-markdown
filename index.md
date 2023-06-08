@@ -12,3 +12,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` python
 import numpy
 ```
+### task list
+- [x] Turn on GitHub Pages
+- [ ] Setup my portfolio
+- [ ] Introduce myself to the world
